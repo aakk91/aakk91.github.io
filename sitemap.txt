@@ -14,12 +14,10 @@ https://aakk91.github.io/guides/afcat-exam-preparation.html
 https://aakk91.github.io/guides/test-psychotechnique-gendarmerie.html
 https://aakk91.github.io/guides/concours-gardien-de-la-paix-tests-psychotechniques.html
 https://aakk91.github.io/guides/dlr-test-de.html
-https://aakk91.github.io/guides/eignungstest-bundeswehr-polizei.html
 https://aakk91.github.io/guides/psicotecnicos-guardia-civil-policia-nacional.html
 https://aakk91.github.io/guides/capaciteitentest-politie-defensie.html
 https://aakk91.github.io/preflight-legal/
 https://aakk91.github.io/guides/atsa-test-preparation.html
-https://aakk91.github.io/guides/afoqt-tbas-astb-sift-preparation.html
 https://aakk91.github.io/guides/rcmp-entrance-assessment-preparation.html
 https://aakk91.github.io/guides/cfat-seaf-canadian-forces.html
 https://aakk91.github.io/guides/tests-entree-enpq-police-quebec.html
@@ -27,3 +25,13 @@ https://aakk91.github.io/guides/brain-preflight-vs-skytest-lite.html
 https://aakk91.github.io/guides/brain-preflight-vs-pilot-aptitude-pro.html
 https://aakk91.github.io/guides/nypd-police-exam-preparation.html
 https://aakk91.github.io/guides/911-dispatcher-criticall-preparation.html
+https://aakk91.github.io/guides/afoqt-practice-app.html
+https://aakk91.github.io/guides/tbas-practice-test.html
+https://aakk91.github.io/guides/astb-practice-test.html
+https://aakk91.github.io/guides/sift-practice-test.html
+https://aakk91.github.io/guides/brain-preflight-vs-atsapro.html
+https://aakk91.github.io/guides/brain-preflight-vs-mometrix-afoqt.html
+https://aakk91.github.io/guides/brain-preflight-ou-pilotest.html
+https://aakk91.github.io/guides/polizei-einstellungstest-kostenlos-ueben.html
+https://aakk91.github.io/guides/bundeswehr-einstellungstest-cat-test-ueben.html
+https://aakk91.github.io/guides/bundesheer-eignungspruefung-ueben.html
