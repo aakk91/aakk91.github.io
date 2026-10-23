@@ -1,0 +1,85 @@
+# Brain Preflight
+
+> Free iPhone app for aptitude test practice: mental arithmetic, logic, memory, spatial reasoning, divided attention and psychomotor tracking. 5 free sessions every day, on any exercise, with no purchase or subscription. Optional paid Premium adds unlimited sessions, mock exams and detailed diagnostics.
+
+Brain Preflight is an independent app, not affiliated with any recruiter or test publisher. It practises related skills; it does not reproduce official tests, and app scores do not convert into official scores. The catalogue has 20 exercises in French, 19 in English and 15 in German, Spanish and Dutch. The guides below (46 articles) explain each selection from official sources and say which exercises fit and what the app does not cover.
+
+## App
+
+- [Brain Preflight on the App Store](https://apps.apple.com/app/id6794363864): iPhone app, free download, 5 free sessions every day
+- [Homepage](https://aakk91.github.io/): overview of the app and its training programmes
+- [All guides](https://aakk91.github.io/guides/): index of every preparation guide
+
+## By country
+
+- [Tests psychotechniques France 2026 : app gratuite pilote, police, SNCF](https://aakk91.github.io/guides/tests-psychotechniques-france.html): Tests psychotechniques en France 2026 : app gratuite pour les sélections pilote (Air France, ENAC, EOPN), police, gendarmerie et SNCF/RATP. 5 sessions gratuites par jour, exercice au choix.
+- [Free Aptitude Test Practice App USA 2026 – Military, Police, ATC, 911](https://aakk91.github.io/guides/aptitude-tests-usa.html): Free aptitude test practice app for 2026 US selections: AFOQT, TBAS, ASTB-E, SIFT, FAA ATSA, NYPD and CritiCall. 5 free iPhone sessions every day, on any exercise.
+- [Eignungstest kostenlos üben 2026: App für Polizei, Bundeswehr und DLR](https://aakk91.github.io/guides/eignungstest-deutschland-kostenlos-ueben.html): Eignungstest 2026 kostenlos üben: App für Polizei-Einstellungstest, Bundeswehr-CAT und DLR-Pilotentest. 5 kostenlose Einheiten pro Tag auf dem iPhone, freie Übungswahl.
+- [Free Aptitude Test Practice App Canada 2026 – Police and Armed Forces](https://aakk91.github.io/guides/aptitude-tests-canada.html): Free aptitude test practice app for 2026 Canadian selections: RCMP, provincial and Québec police, Canadian Armed Forces. 5 free iPhone sessions every day, on any exercise.
+- [Free Aptitude Test Practice App Australia 2026 – ADF and Airservices ATC](https://aakk91.github.io/guides/aptitude-tests-australia.html): Free aptitude test practice app for 2026 Australian selections: ADF Job Opportunities Assessment, Officer Aviation and Airservices air traffic control. 5 free iPhone sessions every day.
+
+## Compare mobile apps
+
+- [Free SkyTest Alternative 2026 – DLR BU/GU Practice App](https://aakk91.github.io/guides/brain-preflight-vs-skytest-lite.html): Free SkyTest alternative for the 2026 DLR BU/GU pilot test: 5 free practice sessions every day on iPhone, versus the paid SkyTest BU/GU Lite app.
+- [Free Pilot Aptitude Pro Alternative 2026 – iPhone App](https://aakk91.github.io/guides/brain-preflight-vs-pilot-aptitude-pro.html): Free Pilot Aptitude Pro alternative for 2026 pilot aptitude tests: 5 free practice sessions every day on iPhone, no purchase required.
+
+## US police and 911 dispatcher
+
+- [Free NYPD Exam Practice App 2026 – Police Officer Exam](https://aakk91.github.io/guides/nypd-police-exam-preparation.html): Free NYPD exam practice app for the 2026 police officer exam. 5 free sessions every day on iPhone: memory, reasoning and attention.
+- [Free CritiCall Practice App 2026 – 911 Dispatcher Test](https://aakk91.github.io/guides/911-dispatcher-criticall-preparation.html): Free CritiCall practice app for the 2026 911 dispatcher test. 5 free sessions every day on iPhone: multitasking, memory, data entry-style checking.
+
+## English
+
+- [Free ATSA Practice App 2026 – Air Traffic Skills Assessment](https://aakk91.github.io/guides/atsa-test-preparation.html): Free ATSA practice app for the 2026 FAA Air Traffic Skills Assessment. 5 free air traffic controller test sessions every day on iPhone, a free alternative to paid ATSA prep.
+- [Free ATSAPro Alternative 2026 – ATSA Practice App](https://aakk91.github.io/guides/brain-preflight-vs-atsapro.html): Free ATSAPro alternative for the 2026 ATSA: Brain Preflight gives 5 free ATSA practice sessions every day on iPhone. ATSAPro is a $9.99 paid app.
+- [Best Free AFOQT Practice App 2026 (iOS) – AFOQT Study](https://aakk91.github.io/guides/afoqt-practice-app.html): Best free AFOQT practice app for iOS in 2026: 5 free sessions every day for maths speed, spatial visualisation and fast visual checking, plus an AFOQT study plan.
+- [Free TBAS Practice App 2026 – Test of Basic Aviation Skills](https://aakk91.github.io/guides/tbas-practice-test.html): Free TBAS practice app for the 2026 Test of Basic Aviation Skills: tracking, multitasking, spatial and memory drills, 5 free sessions every day on iPhone.
+- [Free ASTB-E Practice App 2026 – Aviation Selection Test Battery](https://aakk91.github.io/guides/astb-practice-test.html): Free ASTB-E practice app for the 2026 Aviation Selection Test Battery: maths, spatial and divided-attention drills, 5 free sessions every day on iPhone.
+- [Free SIFT Practice App 2026 – Army Flight Aptitude Test](https://aakk91.github.io/guides/sift-practice-test.html): Free SIFT practice app for the 2026 Army Selection Instrument for Flight Training: maths, mental rotation and pattern drills, 5 free sessions every day on iPhone.
+- [Free Mometrix AFOQT Alternative 2026 – AFOQT Practice App](https://aakk91.github.io/guides/brain-preflight-vs-mometrix-afoqt.html): Free alternative to Mometrix for AFOQT practice in 2026: 5 free sessions every day on iPhone for maths, spatial and visual-checking practice. Mometrix sells a $79.99/month course and study guide.
+- [Free AFOQT, TBAS, ASTB-E and SIFT Practice App 2026 – US Military Aviation Tests](https://aakk91.github.io/guides/us-military-aviation-aptitude-tests.html): Compare the 2026 US military aviation aptitude tests (AFOQT, TBAS, ASTB-E, SIFT): who takes each one, what it measures, and which free iPhone exercises fit.
+- [Free RCMP Entrance Assessment Practice App 2026](https://aakk91.github.io/guides/rcmp-entrance-assessment-preparation.html): Free RCMP entrance assessment practice app for 2026 applicants. 5 free sessions every day on iPhone for reasoning, memory and attention skills.
+- [CFAT Replaced by SEAF – Canadian Forces Guide 2026](https://aakk91.github.io/guides/cfat-seaf-canadian-forces.html): CFAT was replaced by SEAF in October 2024. Understand the current Canadian Forces application process, separate aircrew selection and free general aptitude practice.
+- [Free COMPASS Pilot Aptitude Test Practice App 2026](https://aakk91.github.io/guides/compass-test.html): Free COMPASS pilot aptitude test practice app for 2026. Examples plus 5 free sessions every day on iPhone: maths, memory, spatial and tracking skills.
+- [Free cut-e Pilot Test Practice App 2026 – Aon Scales](https://aakk91.github.io/guides/cut-e-test.html): Free cut-e pilot test practice app for 2026 Aon pilot aptitude tests. Examples plus 5 free sessions every day on iPhone.
+- [Free PILAPT Practice App 2026 – Pilot Aptitude Test](https://aakk91.github.io/guides/pilapt-test.html): Free PILAPT practice app for the 2026 pilot aptitude test. 5 free pilot aptitude assessment sessions every day on iPhone: tracking, memory, maths and spatial reasoning.
+- [Free DLR Test Preparation App 2026 – BU/GU Pilot Test](https://aakk91.github.io/guides/dlr-test.html): Free DLR test preparation app for the 2026 BU/GU pilot selection and DLR CBT. 5 free sessions every day on iPhone, a free alternative to paid SkyTest software.
+- [Free FEAST Practice App 2026 – EUROCONTROL ATC Test](https://aakk91.github.io/guides/feast-test-atc.html): Free FEAST practice app for the 2026 EUROCONTROL air traffic controller test. 5 free ATC aptitude sessions every day on iPhone.
+- [Free AFCAT Practice App 2026 – AFCAT & CPSS Preparation](https://aakk91.github.io/guides/afcat-exam-preparation.html): Free AFCAT practice app for 2026 AFCAT and CPSS preparation. 5 free sessions every day on iPhone: reasoning, maths, memory and multitasking.
+- [Free Aon Assessment Practice App 2026 – Job Aptitude Tests](https://aakk91.github.io/guides/aon-assessment-jobs.html): Free Aon assessment practice app for 2026 job aptitude tests (cut-e scales). 5 free sessions every day on iPhone: numbers, logic, memory and attention.
+- [Free Airservices ATC Practice App 2026 – Air Traffic Controller Ability Tests](https://aakk91.github.io/guides/airservices-air-traffic-control-test.html): Airservices Australia air traffic controller ability tests 2026: what the online assessment measures and which free iPhone exercises fit. 5 free sessions every day.
+- [Free ADF Aptitude Test Practice App 2026 – JOA and Officer Aviation](https://aakk91.github.io/guides/adf-aptitude-tests-joa-officer-aviation.html): ADF Job Opportunities Assessment and Officer Aviation selection 2026: what the official guides say, and which free iPhone exercises give general practice.
+- [Free RSAF COMPASS Practice App 2026 – Pilot Aptitude Test (Singapore)](https://aakk91.github.io/guides/rsaf-compass-pilot-selection.html): RSAF COMPASS aptitude test 2026 for Pilot, WSO (Fighter), AWO and UAV Pilot: what is publicly known and which free iPhone exercises give general practice.
+
+## Français
+
+- [Tests d’entrée ENPQ 2026 : jugement situationnel et M-Pulse](https://aakk91.github.io/guides/tests-entree-enpq-police-quebec.html): Tests d’entrée ENPQ 2026 : ce que mesurent le test de jugement situationnel et le M-Pulse, pourquoi l’ENPQ ne demande aucune préparation spécifique, et ce qu’une app peut faire.
+- [Tests psychotechniques pilote 2026 : app gratuite Air France PSY0, PSY1](https://aakk91.github.io/guides/test-psychotechnique-pilote.html): Préparation gratuite aux tests psychotechniques pilote 2026 : Air France Cadets PSY0, PSY1, PSY2 et ENAC EPL. Application iPhone gratuite, 5 sessions par jour, même hors ligne.
+- [Pilotest ou app iPhone ? PSY0 et PSY1 Air France 2026](https://aakk91.github.io/guides/brain-preflight-ou-pilotest.html): Pilotest ou Brain Preflight pour les tests psychotechniques pilote 2026 (Air France PSY0, PSY1, ENAC) : site web gratuit ou application iPhone gratuite hors ligne. Comparatif.
+- [Tests psychotechniques EPL ENAC 2027 : app gratuite pour le Psy 1](https://aakk91.github.io/guides/enac-epl-tests-psychotechniques.html): Concours EPL de l’ENAC 2027 : les cinq étapes, ce que l’on sait des tests psychotechniques et psychomoteurs (Psy 1), et un entraînement gratuit sur iPhone.
+- [Tests EOPN 2026 : app gratuite pour le TAMI-C et le CSSA de Tours](https://aakk91.github.io/guides/eopn-selection-pilote-armee-air-espace.html): Sélection EOPN de l’Armée de l’Air et de l’Espace : présélection TAMI-C, tests du CSSA de Tours (palonnier, tests cognitifs, simulation pilote) et entraînement gratuit sur iPhone.
+- [Concours ICNA 2027 : épreuves, anglais, entretien (sans psychotechnique)](https://aakk91.github.io/guides/icna-concours-controleur-aerien.html): Concours ICNA 2027 de contrôleur aérien : écrits de la banque CCINP, oraux, anglais et entretien. Pas de tests psychotechniques. Ce qu’il faut préparer, et la différence avec FEAST.
+- [Tests psychotechniques SNCF et RATP 2026 : app gratuite](https://aakk91.github.io/guides/test-psychotechnique-sncf-ratp.html): Tests psychotechniques SNCF et RATP 2026 : application gratuite pour s’entraîner, 5 sessions gratuites par jour sur iPhone.
+- [Test COMPASS pilote 2026 : application gratuite d’entraînement](https://aakk91.github.io/guides/test-compass-fr.html): Test COMPASS pilote 2026 : application gratuite d’entraînement au test d’aptitude, 5 sessions gratuites par jour sur iPhone.
+- [Test PILAPT 2026 : application gratuite pour s’entraîner](https://aakk91.github.io/guides/test-pilapt-fr.html): Test PILAPT 2026 : application gratuite pour s’entraîner au test d’aptitude pilote, 5 sessions gratuites par jour sur iPhone.
+- [Test psychotechnique gendarmerie 2026 : app gratuite](https://aakk91.github.io/guides/test-psychotechnique-gendarmerie.html): Test psychotechnique gendarmerie 2026 : s’entraîner gratuitement sur application, 5 sessions gratuites par jour. Logique, calcul, mémoire, attention.
+- [Tests psychotechniques gardien de la paix 2026 : app gratuite](https://aakk91.github.io/guides/concours-gardien-de-la-paix-tests-psychotechniques.html): Tests psychotechniques gardien de la paix 2026 : application gratuite pour s’entraîner au concours, 5 sessions gratuites par jour sur iPhone.
+
+## Deutsch
+
+- [DLR-Test kostenlos üben 2026: App für BU und GU](https://aakk91.github.io/guides/dlr-test-de.html): DLR-Test 2026 kostenlos üben: Vorbereitungs-App für die BU/GU-Pilotenauswahl, 5 kostenlose Einheiten pro Tag auf dem iPhone. Kostenlose Alternative zur SkyTest-Software.
+- [Polizei Einstellungstest kostenlos üben – App 2026](https://aakk91.github.io/guides/polizei-einstellungstest-kostenlos-ueben.html): Polizei-Einstellungstest 2026 kostenlos üben: Testtrainer-App für Bundespolizei und Landespolizei, 5 kostenlose Einheiten pro Tag auf dem iPhone. Logik, Kopfrechnen, Merkfähigkeit, Konzentration.
+- [Bundeswehr CAT-Test üben: kostenlose App 2026](https://aakk91.github.io/guides/bundeswehr-einstellungstest-cat-test-ueben.html): Bundeswehr-Einstellungstest 2026: den CAT-Test im Karrierecenter kostenlos üben. Trainer-App mit 5 kostenlosen Einheiten pro Tag auf dem iPhone.
+- [Bundesheer Eignungsprüfung 2026: psychologische Tests kostenlos üben](https://aakk91.github.io/guides/bundesheer-eignungspruefung-ueben.html): Bundesheer Eignungsprüfung und Stellung 2026: die psychologischen Tests kostenlos üben, 5 kostenlose Einheiten pro Tag auf dem iPhone.
+
+## Español
+
+- [Psicotécnicos Guardia Civil y Policía Nacional 2026: app gratis](https://aakk91.github.io/guides/psicotecnicos-guardia-civil-policia-nacional.html): Psicotécnicos Guardia Civil y Policía Nacional 2026: app gratis para practicar, 5 sesiones gratis cada día en iPhone.
+
+## Nederlands
+
+- [Capaciteitentest politie en Defensie 2026: gratis oefenen](https://aakk91.github.io/guides/capaciteitentest-politie-defensie.html): Capaciteitentest politie en Defensie 2026 gratis oefenen: app met 5 gratis sessies per dag op je iPhone.
+
+## Optional
+
+- [Support and privacy](https://aakk91.github.io/preflight-legal/): support, privacy policy and contact (brainpreflight@gmail.com)
