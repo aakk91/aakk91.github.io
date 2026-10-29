@@ -10,7 +10,7 @@ Brain Preflight combines daily aptitude practice for pilot, air traffic control,
 - **Training that fits a daily routine:** short timed exercise sessions, exercise feedback, session history and practice levels help users choose what to revisit.
 - **Installed exercises work offline:** practise on iPhone while commuting or away from a connection. Purchases, rewarded ads and online services require internet access.
 - **Five interface languages:** French, English, German, Spanish and Dutch. The catalogue contains 21 exercises in French, 31 in English, 16 in German, and 15 in Spanish and Dutch.
-- **Selection-specific guidance:** 67 guides, including country overviews, selection routes, relevant exercise routines and links to official resources, help candidates find the right practice for their application.
+- **Selection-specific guidance:** 71 guides, including country overviews, selection routes, relevant exercise routines and links to official resources, help candidates find the right practice for their application.
 - **Optional Premium:** the daily five-session plan needs no purchase or subscription. Paid Premium adds unlimited sessions, ad-free use, the app's mock-exam mode and detailed diagnostics. The free plan may display ads.
 
 Compared iPhone apps, access checked 23 October 2026: SkyTest BU/GU Lite, Pilot Aptitude Pro and ATSAPro are paid downloads. Among those three directly compared apps and Brain Preflight, Brain Preflight is the only free-from-the-start option: 5 sessions immediately, renewed every day, with any available exercise. The linked comparisons document this access difference.
@@ -118,6 +118,23 @@ The free allowance is five exercise sessions per day, with free choice across th
 - [SPHAIR oder DLR 2026: Pilotenauswahl Schweiz und Vorbereitung](https://aakk91.github.io/guides/sphair-oder-dlr-test.html): SPHAIR oder DLR für SWISS und Edelweiss? Screening, Flugkurs und Zertifikat vergleichen. Dazu täglich 5 kostenlose Übungseinheiten auf dem iPhone.
 - [Technisches Verständnis 2026 kostenlos üben: Aufgaben mit Lösung](https://aakk91.github.io/guides/technisches-verstaendnis-test-ueben.html): Technisches Verständnis kostenlos üben: Zahnräder, Hebel, Rollen, Druck und Federn mit Lösungen. iPhone-App mit 5 kostenlosen Einheiten pro Tag.
 <!-- Switzerland cluster end -->
+
+<!-- uk-discovery start -->
+## United Kingdom: RAF, Royal Navy and British Army
+
+- [Free Aptitude Test Practice UK 2026 – RAF DAA, Army ACT & CBAT](https://aakk91.github.io/guides/aptitude-tests-uk.html): Free UK aptitude test practice for RAF and Royal Navy DAA, British Army ACT and RAF CBAT skills. Choose your route and start 5 free iPhone sessions daily.
+- [Free RAF DAA Practice Test App 2026 – Defence Aptitude Assessment](https://aakk91.github.io/guides/raf-daa-practice-test.html): Free RAF and Royal Navy DAA practice: verbal, numerical, work rate, spatial, electrical and mechanical skills. Worked examples and 5 daily iPhone sessions.
+- [Free Army Cognitive Test Practice App 2026 – British Army ACT](https://aakk91.github.io/guides/army-cognitive-test-practice.html): Free British Army ACT practice: error detection, orientation, number fluency, word rules and deductive reasoning. Worked answers and 5 iPhone sessions daily.
+- [Free RAF CBAT Preparation App 2026 – Cranwell Aptitude Practice](https://aakk91.github.io/guides/raf-cbat-preparation.html): Free RAF CBAT skills practice on iPhone: tracking, multitasking, spatial reasoning, memory and maths. Cranwell route explained; 5 free sessions every day.
+<!-- uk-discovery end -->
+
+<!-- question-discovery start -->
+## Preparation questions · Questions de préparation · Fragen zur Vorbereitung
+
+- [Free Aptitude Test Practice: Questions & Answers 2026](https://aakk91.github.io/guides/aptitude-test-practice-questions.html): Aptitude test preparation questions answered: free daily practice, pilot and ATC tests, SPHAIR vs DLR, mechanical reasoning, offline access and study routines.
+- [Tests psychotechniques gratuits : questions et réponses 2026](https://aakk91.github.io/guides/questions-preparation-tests-psychotechniques.html): Réponses aux questions de préparation psychotechnique : entraînement gratuit, sélection pilote, FEAST, SPHAIR ou DLR, mécanique et exercices hors ligne.
+- [Eignungstest kostenlos üben: Fragen und Antworten 2026](https://aakk91.github.io/guides/eignungstest-vorbereitung-fragen-antworten.html): Fragen zur Eignungstest-Vorbereitung: kostenlos üben, Pilot und Fluglotse, SPHAIR oder DLR, technisches Verständnis, Offline-Training und tägliche Routine.
+<!-- question-discovery end -->
 
 ## Optional
 
