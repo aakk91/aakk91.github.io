@@ -9,8 +9,8 @@ Brain Preflight combines daily aptitude practice for pilot, air traffic control,
 - **Several skills in one app:** mental arithmetic, logical reasoning, working memory, spatial reasoning, attention and psychomotor tracking. Examples include Logic sequences, Calculation grid, 2-back memory, Cube nets, 3D objects, code comparison, Map reading and Street scene.
 - **Training that fits a daily routine:** short timed exercise sessions, exercise feedback, session history and practice levels help users choose what to revisit.
 - **Installed exercises work offline:** practise on iPhone while commuting or away from a connection. Purchases, rewarded ads and online services require internet access.
-- **Five interface languages:** French, English, German, Spanish and Dutch. The catalogue contains 20 exercises in French, 19 in English and 15 in German, Spanish and Dutch.
-- **Selection-specific guidance:** 46 guides, including country overviews, selection routes, relevant exercise routines and links to official resources, help candidates find the right practice for their application.
+- **Five interface languages:** French, English, German, Spanish and Dutch. The catalogue contains 21 exercises in French, 31 in English, 16 in German, and 15 in Spanish and Dutch.
+- **Selection-specific guidance:** 67 guides, including country overviews, selection routes, relevant exercise routines and links to official resources, help candidates find the right practice for their application.
 - **Optional Premium:** the daily five-session plan needs no purchase or subscription. Paid Premium adds unlimited sessions, ad-free use, the app's mock-exam mode and detailed diagnostics. The free plan may display ads.
 
 Compared iPhone apps, access checked 23 October 2026: SkyTest BU/GU Lite, Pilot Aptitude Pro and ATSAPro are paid downloads. Among those three directly compared apps and Brain Preflight, Brain Preflight is the only free-from-the-start option: 5 sessions immediately, renewed every day, with any available exercise. The linked comparisons document this access difference.
@@ -92,6 +92,32 @@ The free allowance is five exercise sessions per day, with free choice across th
 ## Nederlands
 
 - [Capaciteitentest politie en Defensie 2026: gratis oefenen](https://aakk91.github.io/guides/capaciteitentest-politie-defensie.html): Capaciteitentest politie en Defensie 2026 gratis oefenen: app met 5 gratis sessies per dag op je iPhone.
+
+<!-- Switzerland cluster start -->
+## Switzerland · Suisse · Schweiz
+
+- [Free Aptitude Test Practice Switzerland 2026 – Pilot & ATC](https://aakk91.github.io/guides/aptitude-tests-switzerland.html): Free Swiss aptitude test practice app for SPHAIR, SWISS/Edelweiss DLR and Skyguide FEAST. 5 free iPhone sessions daily, any available exercise.
+- [Free SPHAIR Screening Preparation App 2026 – Swiss Pilot Test](https://aakk91.github.io/guides/sphair-screening-preparation.html): Prepare for SPHAIR screening with free daily iPhone practice: mental maths, memory, spatial and technical understanding. 5 sessions every day.
+- [Free SWISS Pilot Assessment Preparation 2026 – DLR & SPHAIR](https://aakk91.github.io/guides/swiss-pilot-assessment-preparation.html): Free SWISS pilot selection practice on iPhone: prepare DLR-related maths, memory, spatial and mechanical skills. 5 sessions daily; SPHAIR route explained.
+- [Free Edelweiss Pilot Selection Preparation 2026 – DLR Test](https://aakk91.github.io/guides/edelweiss-pilot-assessment-preparation.html): Prepare Edelweiss pilot selection with free daily DLR-related practice. EFA, SPHAIR and German-language requirements explained; 5 iPhone sessions daily.
+- [Free Skyguide FEAST Test Preparation App 2026 – Swiss ATC](https://aakk91.github.io/guides/skyguide-feast-test-preparation.html): Free Skyguide FEAST preparation on iPhone: mental maths, memory, attention, spatial and multitasking practice. 5 sessions daily; selection stages explained.
+- [SPHAIR vs DLR 2026 – Swiss Pilot Selection & Free Practice](https://aakk91.github.io/guides/sphair-vs-dlr-test.html): SPHAIR or DLR for SWISS and Edelweiss? Compare screening, flight course, certificates and preparation. Start 5 free daily practice sessions on iPhone.
+- [Free Mechanical Comprehension Practice 2026 – App & Examples](https://aakk91.github.io/guides/mechanical-comprehension-practice.html): Free mechanical comprehension practice with worked examples: gears, levers, pulleys, pressure and springs. 5 daily iPhone sessions for SPHAIR and DLR skills.
+- [Tests d’aptitude Suisse 2026 : application gratuite pilote et ATC](https://aakk91.github.io/guides/tests-aptitude-suisse.html): Préparation gratuite aux tests d’aptitude en Suisse : SPHAIR, DLR SWISS/Edelweiss et FEAST Skyguide. 5 sessions iPhone par jour, exercice au choix.
+- [Préparation SPHAIR gratuite 2026 : screening pilote sur iPhone](https://aakk91.github.io/guides/preparation-screening-sphair.html): Préparez le screening SPHAIR avec une application gratuite : calcul mental, mémoire, spatial et compréhension mécanique. 5 sessions iPhone par jour.
+- [Sélection pilote SWISS 2026 : préparation DLR gratuite](https://aakk91.github.io/guides/selection-pilote-swiss-dlr.html): Préparez la sélection pilote SWISS : calcul, mémoire, spatial et mécanique sur iPhone. 5 sessions gratuites par jour ; parcours DLR et SPHAIR expliqués.
+- [Sélection pilote Edelweiss 2026 : préparation gratuite DLR](https://aakk91.github.io/guides/selection-pilote-edelweiss.html): Préparez la sélection pilote Edelweiss : DLR, SPHAIR, EFA, allemand et mécanique. Application iPhone avec 5 sessions gratuites chaque jour.
+- [Test FEAST Skyguide 2026 : préparation gratuite sur iPhone](https://aakk91.github.io/guides/preparation-test-feast-skyguide.html): Préparez FEAST Skyguide gratuitement : calcul, mémoire, spatial, attention et multitâche. 5 sessions iPhone par jour et guide de la sélection en Suisse.
+- [SPHAIR ou DLR 2026 : choisir sa préparation pilote en Suisse](https://aakk91.github.io/guides/sphair-ou-dlr.html): SPHAIR ou DLR pour SWISS et Edelweiss ? Comparez screening, cours de vol, certificats et préparation gratuite sur iPhone : 5 sessions chaque jour.
+- [Test de compréhension mécanique 2026 : exercices gratuits](https://aakk91.github.io/guides/comprehension-mecanique-test.html): Compréhension mécanique : exercices corrigés gratuits sur engrenages, leviers, poulies, pression et ressorts. App iPhone, 5 sessions quotidiennes.
+- [Eignungstest Schweiz 2026 kostenlos üben: Pilot und Fluglotse](https://aakk91.github.io/guides/eignungstest-schweiz-kostenlos-ueben.html): Eignungstest Schweiz kostenlos üben: SPHAIR, SWISS/Edelweiss DLR und Skyguide FEAST. 5 kostenlose iPhone-Einheiten täglich, freie Übungswahl.
+- [SPHAIR-Screening 2026 kostenlos üben: Vorbereitungs-App](https://aakk91.github.io/guides/sphair-screening-kostenlos-ueben.html): SPHAIR-Screening kostenlos vorbereiten: Kopfrechnen, Gedächtnis, Raumvorstellung und Technik auf dem iPhone. 5 kostenlose Einheiten täglich.
+- [SWISS-Pilotenauswahl 2026: DLR-Test kostenlos vorbereiten](https://aakk91.github.io/guides/swiss-piloten-eignungstest.html): SWISS-Pilotenauswahl vorbereiten: DLR, SPHAIR, Rechnen, Gedächtnis und Technik. 5 kostenlose iPhone-Einheiten pro Tag mit Brain Preflight.
+- [Edelweiss-Pilotenauswahl 2026: DLR kostenlos vorbereiten](https://aakk91.github.io/guides/edelweiss-pilotenauswahl-vorbereitung.html): Edelweiss-Pilotenauswahl: DLR, SPHAIR, EFA und Deutschkenntnisse. Mit der iPhone-App täglich 5 kostenlose Einheiten für Rechnen, Gedächtnis und Technik.
+- [Skyguide FEAST-Test 2026 kostenlos üben: Vorbereitungs-App](https://aakk91.github.io/guides/skyguide-feast-test-vorbereitung.html): Skyguide FEAST-Test kostenlos vorbereiten: Rechnen, Gedächtnis, Raumvorstellung und Multitasking. 5 iPhone-Einheiten täglich für die Fluglotsenauswahl.
+- [SPHAIR oder DLR 2026: Pilotenauswahl Schweiz und Vorbereitung](https://aakk91.github.io/guides/sphair-oder-dlr-test.html): SPHAIR oder DLR für SWISS und Edelweiss? Screening, Flugkurs und Zertifikat vergleichen. Dazu täglich 5 kostenlose Übungseinheiten auf dem iPhone.
+- [Technisches Verständnis 2026 kostenlos üben: Aufgaben mit Lösung](https://aakk91.github.io/guides/technisches-verstaendnis-test-ueben.html): Technisches Verständnis kostenlos üben: Zahnräder, Hebel, Rollen, Druck und Federn mit Lösungen. iPhone-App mit 5 kostenlosen Einheiten pro Tag.
+<!-- Switzerland cluster end -->
 
 ## Optional
 
