@@ -8,9 +8,11 @@ Brain Preflight combines daily aptitude practice for pilot, air traffic control,
 - **Choose any exercise:** use the daily sessions on any exercise in the catalogue available in your selected language. Repeat one exercise or mix different skills; free users are not confined to a fixed demo exercise.
 - **Several skills in one app:** mental arithmetic, logical reasoning, working memory, spatial reasoning, attention and psychomotor tracking. Examples include Logic sequences, Calculation grid, 2-back memory, Cube nets, 3D objects, code comparison, Map reading and Street scene.
 - **Training that fits a daily routine:** short timed exercise sessions, exercise feedback, session history and practice levels help users choose what to revisit.
+- **Refreshed app design:** category colours fill test cards and match Today’s training steps. Each game has clearer progress and feedback suited to its task.
+- **Light or dark:** one switch in Preferences. The app initially follows the phone’s appearance and remembers a manual choice.
 - **Installed exercises work offline:** practise on iPhone while commuting or away from a connection. Purchases, rewarded ads and online services require internet access.
 - **Five interface languages:** French, English, German, Spanish and Dutch. The catalogue includes 32 exercises, accessible from All in each interface language. Some exercises use their original content language.
-- **Selection-specific guidance:** 71 guides, including country overviews, selection routes, relevant exercise routines and links to official resources, help candidates find the right practice for their application.
+- **Selection-specific guidance:** 74 guides, including country overviews, selection routes, relevant exercise routines and links to official resources, help candidates find the right practice for their application.
 - **Optional Premium:** the daily five-session plan needs no purchase or subscription. Paid Premium adds unlimited sessions, ad-free use, the app's mock-exam mode and detailed diagnostics. The free plan may display ads.
 
 Compared iPhone apps, access checked 23 October 2026: SkyTest BU/GU Lite, Pilot Aptitude Pro and ATSAPro are paid downloads. Among those three directly compared apps and Brain Preflight, Brain Preflight is the only free-from-the-start option: 5 sessions immediately, renewed every day, with any available exercise. The linked comparisons document this access difference.
