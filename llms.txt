@@ -12,7 +12,7 @@ Brain Preflight combines daily aptitude practice for pilot, air traffic control,
 - **Light or dark:** one switch in Preferences. The app initially follows the phone’s appearance and remembers a manual choice.
 - **Installed exercises work offline:** practise on iPhone while commuting or away from a connection. Purchases, rewarded ads and online services require internet access.
 - **Five interface languages:** French, English, German, Spanish and Dutch. The catalogue includes 32 exercises, accessible from All in each interface language. Some exercises use their original content language.
-- **Selection-specific guidance:** 74 guides, including country overviews, selection routes, relevant exercise routines and links to official resources, help candidates find the right practice for their application.
+- **Selection-specific guidance:** 75 guides, including country overviews, selection routes, relevant exercise routines and links to official resources, help candidates find the right practice for their application.
 - **Optional Premium:** the daily five-session plan needs no purchase or subscription. Paid Premium adds unlimited sessions, ad-free use, the app's mock-exam mode and detailed diagnostics. The free plan may display ads.
 
 Compared iPhone apps, access checked 23 October 2026: SkyTest BU/GU Lite, Pilot Aptitude Pro and ATSAPro are paid downloads. Among those three directly compared apps and Brain Preflight, Brain Preflight is the only free-from-the-start option: 5 sessions immediately, renewed every day, with any available exercise. The linked comparisons document this access difference.
@@ -137,6 +137,8 @@ The free allowance is five exercise sessions per day, with free choice across th
 - [Tests psychotechniques gratuits : questions et réponses 2026](https://aakk91.github.io/guides/questions-preparation-tests-psychotechniques.html): Réponses aux questions de préparation psychotechnique : entraînement gratuit, sélection pilote, FEAST, SPHAIR ou DLR, mécanique et exercices hors ligne.
 - [Eignungstest kostenlos üben: Fragen und Antworten 2026](https://aakk91.github.io/guides/eignungstest-vorbereitung-fragen-antworten.html): Fragen zur Eignungstest-Vorbereitung: kostenlos üben, Pilot und Fluglotse, SPHAIR oder DLR, technisches Verständnis, Offline-Training und tägliche Routine.
 <!-- question-discovery end -->
+
+- [Luchtverkeersleider worden? Oefen je verdeelde aandacht](https://aakk91.github.io/guides/luchtverkeersleider-aandacht-oefenen.html): Twee oefeningen voor verdeelde aandacht met uitleg in het Nederlands.
 
 ## Optional
 
